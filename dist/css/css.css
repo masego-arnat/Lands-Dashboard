@@ -77,3 +77,16 @@ color: white;
  .navtext:hover{
   color: black;
  }
+ html, body {
+  height: 100%;
+}
+
+.landingpageBottomDivs {
+  background-color: #E39201;
+  color: white;
+  box-shadow: 0px 8px 6px #00000029;
+  border: 1px solid #E39200;
+  border-radius: 4px;
+  opacity: 1;
+  font: normal normal bold 27px/54px Helvetica Neue;
+}
